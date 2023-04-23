@@ -28,7 +28,7 @@ To use the trained model for recognizing sculptures in new images, follow these 
 7. Display the predicted class label along with the corresponding temple name and history (from a CSV file)
 
 # Results
-The trained model achieves an accuracy of approximately 90% on the validation set.
+The trained model achieves an accuracy of approximately 96.39% on the validation set.
 We also tested the model on several new images of sculptures and found that it performs well in recognizing different types of sculptures.
 
 # Future Work
